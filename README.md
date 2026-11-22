@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="demo.gif" alt="Terminal demo" width="700" />
+  <img src="h.gif" alt="Terminal demo" width="700" />
 </p>
 
 ---
