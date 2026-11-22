@@ -51,7 +51,7 @@ Low-level developer obsessed with understanding how software works at the binary
 
 ### 📫 Contact
 
-![Discord](https://img.shields.io/badge/Discord-YOUR__USERNAME-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](0x.bit__)
 
 ---
 
