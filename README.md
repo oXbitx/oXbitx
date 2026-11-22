@@ -51,7 +51,9 @@ Low-level developer obsessed with understanding how software works at the binary
 
 ### 📫 Contact
 
-![Discord](0x.bit__)
+<a href="https://discord.com/users/YOUR_USER_ID">
+  <img src="https://img.shields.io/badge/Discord-0x.bit__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
 ---
 
