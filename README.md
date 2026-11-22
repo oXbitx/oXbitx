@@ -42,7 +42,6 @@ Low-level developer obsessed with understanding how software works at the binary
 
 ![Linux](https://img.shields.io/badge/Linux%20%2F%20Unix-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 📫 Contact
 
 ### 📫 Contact
 
