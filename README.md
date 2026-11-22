@@ -36,7 +36,6 @@ Low-level developer obsessed with understanding how software works at the binary
 ![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=flat-square&logo=nsa&logoColor=white)
 ![radare2](https://img.shields.io/badge/radare2-1B1B1B?style=flat-square&logoColor=white)
 ![pwndbg](https://img.shields.io/badge/pwndbg-8A2BE2?style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 🖥️ Environment
 
