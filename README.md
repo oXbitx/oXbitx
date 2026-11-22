@@ -9,16 +9,9 @@
   <img src="https://img.shields.io/badge/-Linux%20%2F%20Unix-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-```
-root@0XB!T:~$ whoami
-0XB!T, low-level developer
-
-root@0XB!T:~$ cat interests.txt
-> Reverse engineering
-> Malware analysis
-> Malware development (research)
-> Low-level programming
-```
+<p align="center">
+  <img src="demo.gif" alt="Terminal demo" width="700" />
+</p>
 
 ---
 
