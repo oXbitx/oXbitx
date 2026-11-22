@@ -49,5 +49,3 @@ Low-level developer obsessed with understanding how software works at the binary
 </a>
 
 ---
-
-<p align="center"><i>"Everything is open once you read the bytes."</i></p>
